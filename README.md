@@ -3,7 +3,7 @@
 ##Iniciando Projetos GIT
 - Repositório local
 - Repositório remoto
-- git congig --global user.name
-- git congig --global user.email
+- git config --global user.name
+- git config --global user.email
 - git init
 - git remote add origin (link do repositório)
