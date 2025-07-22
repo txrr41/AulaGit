@@ -12,3 +12,7 @@
 - git add .
 - git commit -m "Mensagem"
 - git push origin main
+- git clone
+- git fetch
+- git status
+- git pull
