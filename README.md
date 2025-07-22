@@ -7,4 +7,3 @@
 - git congig --global user.email
 - git init
 - git remote add origin (link do repositório)
-- git 
